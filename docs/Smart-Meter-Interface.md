@@ -1722,9 +1722,9 @@ You need to ask your provider.
     #
     ```
 
-### Iskra MT 681 (SML)
+### Iskra MT 681 / Iskra MT 691 (SML)
 
-This is script for a two-direction meter (consumption and delivery) for the Isra MT 681, that is widely used in Germany. If you don't deliver energy, just delete the "Total Delivered" line. If the meter provides the consumption values for the 3 phases depends also on the configuration by your local energy provider.
+This is script for a two-direction meter (consumption and delivery) for the Iskra MT 681 and Iskra MT 691, that is widely used in Germany. If you don't deliver energy, just delete the "Total Delivered" line. If the meter provides the consumption values for the 3 phases depends also on the configuration by your local energy provider.
 
 ??? summary "View script"
     ```
